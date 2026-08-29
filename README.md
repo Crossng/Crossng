@@ -55,17 +55,6 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
 
-## GitHub activity
-
-<p align="center">
-  <a href="https://github.com/stats-organization/github-readme-stats-action">
-    <img height="165" src="./profile/stats.svg" alt="Crossng GitHub stats" />
-  </a>
-  <a href="https://github.com/stats-organization/github-readme-stats-action">
-    <img height="165" src="./profile/top-langs.svg" alt="Crossng top languages" />
-  </a>
-</p>
-
 ### Contribution views
 
 <picture>
