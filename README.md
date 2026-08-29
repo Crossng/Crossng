@@ -66,25 +66,21 @@
   </a>
 </p>
 
-<details>
-  <summary><strong>Contribution views</strong></summary>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg" />
-    <img src="./profile-3d-contrib/profile-green-animate.svg" width="96%" alt="3D contribution calendar" />
-  </picture>
-</details>
+### Contribution views
 
-<details>
-  <summary><strong>One small animation</strong></summary>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crossng/Crossng/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crossng/Crossng/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Crossng/Crossng/output/github-contribution-grid-snake.svg" width="96%" alt="GitHub contribution grid snake animation" />
-  </picture>
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="96%" alt="3D contribution calendar" />
+</picture>
+
+### One small animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crossng/Crossng/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crossng/Crossng/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Crossng/Crossng/output/github-contribution-grid-snake.svg" width="96%" alt="GitHub contribution grid snake animation" />
+</picture>
 
 <div align="center">
 
