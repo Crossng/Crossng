@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Crossng&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Building%20tools%20for%20macOS%20and%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:0f3d68,100:2563eb&text=Crossng&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Native%20macOS%20%7C%20Java%20%2B%20Spring%20%7C%20AI%20Agents&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&height=54&lines=Swift+%2B+macOS+%E2%80%94+native+tools+with+care;Java+%2B+Spring+Boot+%E2%80%94+engineering+agents;3D+Vision+%E2%80%94+turning+data+into+understanding" alt="Typing animation" /></a>
 
 <p>
   <a href="https://github.com/Crossng"><img src="https://img.shields.io/badge/GitHub-Crossng-111827?style=flat-square&logo=github" alt="GitHub" /></a>
@@ -15,8 +17,8 @@
 ## About me
 
 - 🖥️ 关注原生 macOS 应用与开发者工具
-- 🤖 正在探索代码智能、AI Agent 与计算机视觉
-- 🔭 目前在做 [Mac-TrafficBar](https://github.com/Crossng/Mac-TrafficBar) 和 [code-review-agent](https://github.com/Crossng/code-review-agent)
+- ☕ 正在用 Java / Spring Boot 构建 AI 软件工程工具
+- 🤖 探索代码智能、AI Agent 与计算机视觉
 - ✨ 喜欢简洁、实用、有细节的产品
 
 ## What I'm building
@@ -24,7 +26,7 @@
 <table>
   <tr>
     <td width="33%" align="center"><strong>Native macOS</strong><br /><sub>菜单栏工具 · 性能 · 体验</sub></td>
-    <td width="33%" align="center"><strong>Developer Tools</strong><br /><sub>代码审查 · 自动化 · 工程效率</sub></td>
+    <td width="33%" align="center"><strong>Java Engineering</strong><br /><sub>Spring Boot · Agent · 自动化</sub></td>
     <td width="33%" align="center"><strong>Visual Computing</strong><br /><sub>3D 重建 · 场景理解 · AI</sub></td>
   </tr>
 </table>
@@ -44,7 +46,7 @@
 | Project | Description | Stack |
 | --- | --- | --- |
 | [Mac-TrafficBar](https://github.com/Crossng/Mac-TrafficBar) | 原生 macOS 菜单栏流量监控工具，支持实时网速、应用排行与流量分类 | `Swift` `macOS` |
-| [code-review-agent](https://github.com/Crossng/code-review-agent) | 面向代码审查自动化的 Agent 实验项目 | `Java` `AI` |
+| [code-review-agent](https://github.com/Crossng/code-review-agent) | 面向 Java/Spring Boot 仓库的 AI 软件工程 Agent 平台 | `Java` `Spring Boot` `Maven` |
 | [lingbot-map](https://github.com/Crossng/lingbot-map) | 从流式数据中重建场景的 3D 基础模型探索 | `3D` `Computer Vision` |
 | [Vggt](https://github.com/Crossng/Vggt) | Visual Geometry Grounded Transformer 论文项目探索 | `Computer Vision` |
 
@@ -98,8 +100,14 @@
   <a href="https://github.com/Crossng/Mac-TrafficBar/commits/main"><img src="https://img.shields.io/github/last-commit/Crossng/Mac-TrafficBar?style=for-the-badge&color=16a34a&logo=git" alt="Last commit" /></a>
 </div>
 
+## Contribution animation
+
 <p align="center">
-  <em>更多贡献活动可以在下方的 GitHub 时间线中查看。</em>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crossng/Crossng/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crossng/Crossng/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Crossng/Crossng/output/github-contribution-grid-snake.svg" width="96%" />
+  </picture>
 </p>
 
 <div align="center">
