@@ -2,29 +2,65 @@
 
 # Crossng
 
-`macOS apps` · `Java services` · `visual computing`
+`Swift / macOS` · `Java / Spring` · `Python / Vision`
 
 <p>
-  <a href="https://github.com/Crossng"><img src="https://img.shields.io/badge/GitHub-Crossng-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/Crossng/Crossng/actions"><img src="https://img.shields.io/badge/Actions-profile_automation-24292f?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
+  <a href="https://github.com/Crossng">GitHub</a>
+  ·
+  <a href="https://github.com/Crossng?tab=repositories">Repositories</a>
+  ·
+  <a href="https://github.com/Crossng/Crossng/actions">Actions</a>
 </p>
 
 </div>
 
 ## About
 
-你好，我是 Crossng。我主要写 Swift 和 Java，偶尔用 Python 做视觉相关的实验。
+> 你好，我是 Crossng。我主要写 Swift 和 Java，偶尔用 Python 做视觉相关的实验。
+>
+> 我喜欢做小而具体的东西：一个能长期放在菜单栏里的工具、一个边界清楚的服务，或者一个把想法验证出来的实验项目。
 
-我喜欢做小而具体的东西：一个能长期放在菜单栏里的工具、一个边界清楚的服务，或者一个把想法验证出来的实验项目。
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>写什么</strong><br />
+      macOS 工具、Java 服务、视觉计算实验
+    </td>
+    <td width="50%" valign="top">
+      <strong>在意什么</strong><br />
+      清楚的边界、顺手的交互、能真正解决问题
+    </td>
+  </tr>
+</table>
 
-## Selected repositories
+## Projects
 
-| Repository | Notes | Stack |
-| --- | --- | --- |
-| [Mac-TrafficBar](https://github.com/Crossng/Mac-TrafficBar) | macOS 菜单栏流量监控工具 | Swift · macOS |
-| [code-review-agent](https://github.com/Crossng/code-review-agent) | 代码审查与开发流程服务 | Java · Spring Boot |
-| [lingbot-map](https://github.com/Crossng/lingbot-map) | 场景重建与 3D 数据探索 | Python · Computer Vision |
-| [Vggt](https://github.com/Crossng/Vggt) | Visual Geometry 项目实验 | Python · PyTorch |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Crossng/Mac-TrafficBar">Mac-TrafficBar</a></h3>
+      <p>macOS 菜单栏流量监控工具，尽量安静地待在需要它的地方。</p>
+      <code>Swift</code> <code>macOS</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Crossng/code-review-agent">code-review-agent</a></h3>
+      <p>面向代码审查与开发流程的 Java 服务。</p>
+      <code>Java</code> <code>Spring Boot</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Crossng/lingbot-map">lingbot-map</a></h3>
+      <p>从数据中重建场景，探索 3D 结构和可视化表达。</p>
+      <code>Python</code> <code>Computer Vision</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Crossng/Vggt">Vggt</a></h3>
+      <p>Visual Geometry 相关的项目实验与代码整理。</p>
+      <code>Python</code> <code>PyTorch</code>
+    </td>
+  </tr>
+</table>
 
 ## Toolbox
 
