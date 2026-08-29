@@ -19,6 +19,26 @@
 - 🔭 目前在做 [Mac-TrafficBar](https://github.com/Crossng/Mac-TrafficBar) 和 [code-review-agent](https://github.com/Crossng/code-review-agent)
 - ✨ 喜欢简洁、实用、有细节的产品
 
+## What I'm building
+
+<table>
+  <tr>
+    <td width="33%" align="center"><strong>Native macOS</strong><br /><sub>菜单栏工具 · 性能 · 体验</sub></td>
+    <td width="33%" align="center"><strong>Developer Tools</strong><br /><sub>代码审查 · 自动化 · 工程效率</sub></td>
+    <td width="33%" align="center"><strong>Visual Computing</strong><br /><sub>3D 重建 · 场景理解 · AI</sub></td>
+  </tr>
+</table>
+
+## Ecosystem
+
+<p>
+  <img src="https://img.shields.io/badge/Apple%20Ecosystem-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple ecosystem" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/OpenJDK-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="OpenJDK" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+
 ## Featured projects
 
 | Project | Description | Stack |
@@ -34,9 +54,41 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Agents-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="AI and Agents" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Agents-2563EB?style=for-the-badge&logoColor=white" alt="AI and Agents" />
   <img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
 </p>
+
+### Java / JVM stack
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA and Hibernate" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
+  <img src="https://img.shields.io/badge/JavaParser-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JavaParser" />
+</p>
+
+### Backend infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</p>
+
+<details>
+  <summary><strong>More about my work</strong></summary>
+  <br />
+
+  I enjoy working at the intersection of polished desktop experiences, practical developer tooling, and intelligent systems.
+
+  - **Desktop:** native macOS apps and menu bar utilities
+  - **Engineering:** Java/Spring Boot code review workflows and automation
+  - **Research:** 3D vision, scene reconstruction, and multimodal AI
+</details>
 
 ## GitHub snapshot
 
