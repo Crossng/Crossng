@@ -1,18 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:0f3d68,100:2563eb&text=Crossng&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Native%20macOS%20%7C%20Java%20%2B%20Spring%20%7C%20AI%20Agents&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,30:111827,62:312e81,100:0891b2&text=Crossng&fontColor=ffffff&fontSize=62&fontAlignY=34&desc=Native%20macOS%20%7C%20Java%20%2B%20Spring%20%7C%20AI%20Agents&descAlignY=57&descSize=18&animation=twinkling" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&height=54&lines=Swift+%2B+macOS+%E2%80%94+native+tools+with+care;Java+%2B+Spring+Boot+%E2%80%94+engineering+agents;3D+Vision+%E2%80%94+turning+data+into+understanding" alt="Typing animation" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=820&height=54&lines=Swift+%2B+macOS+%E2%80%94+native+tools+with+care;Java+%2B+Spring+Boot+%E2%80%94+engineering+agents;3D+Vision+%E2%80%94+turning+data+into+understanding" alt="Typing animation" /></a>
 
 <p>
   <a href="https://github.com/Crossng"><img src="https://img.shields.io/badge/GitHub-Crossng-111827?style=flat-square&logo=github" alt="GitHub" /></a>
   <a href="https://github.com/Crossng?tab=followers"><img src="https://img.shields.io/github/followers/Crossng?style=flat-square&label=Followers&color=2563eb" alt="Followers" /></a>
-  <a href="https://github.com/Crossng?tab=repositories"><img src="https://img.shields.io/badge/Repositories-7-2563eb?style=flat-square" alt="Repositories" /></a>
+  <a href="https://komarev.com/ghpvc/?username=Crossng"><img src="https://komarev.com/ghpvc/?username=Crossng&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile views" /></a>
+  <a href="https://github.com/Crossng/Crossng/actions/workflows/snake.yml"><img src="https://github.com/Crossng/Crossng/actions/workflows/snake.yml/badge.svg?branch=main" alt="Contribution animation workflow" /></a>
 </p>
 
 <p><em>你好，我是 Crossng —— 一名喜欢把想法做成工具的开发者。</em></p>
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:06B6D4,50:6366F1,100:EC4899&section=header" width="100%" alt="Neon divider" />
+</p>
+
+<pre>
+╭─[ crossng@github ]──────────────────────────────────────╮
+│  focus   : native macOS · Java backend · AI agents      │
+│  mindset : make it useful, make it elegant              │
+│  status  : building in public                           │
+╰─────────────────────────────────────────────────────────╯
+</pre>
 
 ## About me
 
@@ -20,6 +33,10 @@
 - ☕ 正在用 Java / Spring Boot 构建 AI 软件工程工具
 - 🤖 探索代码智能、AI Agent 与计算机视觉
 - ✨ 喜欢简洁、实用、有细节的产品
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=76&color=0:111827,50:1E1B4B,100:0E7490&text=BUILD%20IN%20PUBLIC&fontColor=ffffff&fontSize=26&fontAlignY=55&animation=twinkling" width="100%" alt="Build in public banner" />
+</p>
 
 ## What I'm building
 
@@ -39,6 +56,7 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/OpenJDK-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="OpenJDK" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ## Featured projects
@@ -56,8 +74,13 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Agents-2563EB?style=for-the-badge&logoColor=white" alt="AI and Agents" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=76&color=0:14532D,50:166534,100:0F172A&text=JAVA%20%2F%20JVM%20LAB&fontColor=ffffff&fontSize=25&fontAlignY=55&animation=twinkling" width="100%" alt="Java JVM lab banner" />
 </p>
 
 ### Java / JVM stack
@@ -81,6 +104,20 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
 
+## Java agent pipeline
+
+```text
+GitHub Repository
+       │
+       ▼
+Spring Boot API ──► Agent Planner ──► JavaParser / Code Search
+       │                                      │
+       └──────────────► Docker Sandbox ◄─────┘
+                              │
+                              ▼
+                   Human Approval → Pull Request
+```
+
 <details>
   <summary><strong>More about my work</strong></summary>
   <br />
@@ -101,6 +138,10 @@
 </div>
 
 ## Contribution animation
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=76&color=0:0F172A,50:312E81,100:7E22CE&text=CONTRIBUTIONS%20%2F%20SYSTEM%20LOGS&fontColor=ffffff&fontSize=23&fontAlignY=55&animation=twinkling" width="100%" alt="Contributions banner" />
+</p>
 
 <p align="center">
   <picture>
