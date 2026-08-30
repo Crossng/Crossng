@@ -1,15 +1,19 @@
 <div align="center">
 
-# Crossng
+<h1>Crossng</h1>
 
-`Swift / macOS` · `Java / Spring` · `Python / Vision`
+<p><strong>把遇到的问题，慢慢做成顺手的工具。</strong></p>
 
 <p>
-  <a href="https://github.com/Crossng">GitHub</a>
-  ·
+  Swift / macOS&nbsp;&nbsp;·&nbsp;&nbsp;Java / Spring&nbsp;&nbsp;·&nbsp;&nbsp;Python / Vision
+</p>
+
+<p>
   <a href="https://github.com/Crossng?tab=repositories">Repositories</a>
-  ·
+  &nbsp;·&nbsp;
   <a href="https://github.com/Crossng/Crossng/actions">Actions</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Crossng/Mac-TrafficBar">Mac-TrafficBar</a>
 </p>
 
 </div>
